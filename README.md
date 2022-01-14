@@ -1,7 +1,7 @@
 ### Bienvenidos 👋
 
 
-### MI nombre es Yasna y soy Full Stack Developer.
+### Mi nombre es Yasna y soy Full Stack Developer.
 
 El mundo de la teconología me parece fascinante. Se trata de comprender lo que el cliente quiere y crear algo único.
 

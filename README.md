@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bienvenidos 👋
 
-<!--
-**yaslillo/yaslillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### MI nombre es Yasna y soy Full Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+El mundo de la teconología me parece fascinante. Se trata de comprender lo que el cliente quiere y crear algo único.
+
+Me interesa desarrollar todo tipo de proyectos: Páginas web, apps.
+Y estoy abierta a seguir aprendiendo nuevas tecnologias y mantenerme actualizada.
+
+Habilidades: React, HTML, CSS, Redux, Javascript (ES6), PostgreSQL, Sequelize, Node.js, Express.
+
+CONTACTO :yasnalillo27@gmail.com.
+
+
